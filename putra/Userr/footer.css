@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+footer{
+    padding: 20px 20px;
+    background-color: aquamarine;
+    margin-top: 100%;
+}
